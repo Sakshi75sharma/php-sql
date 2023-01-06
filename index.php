@@ -11,7 +11,7 @@
     <h1>List Of Emoployees</h2>
     <br>
     <table class="table">
-        <thread>
+        <thead>
             <tr>
                 <th>emp_id</th>
                 <th>emp_name</th>
@@ -19,7 +19,7 @@
                 <th>emp_city</th>
                 <th>is_active</th>
             </tr>
-        </thread>
+        </thead>
 
         <tbody>
             <?php
